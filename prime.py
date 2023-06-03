@@ -14,4 +14,4 @@ def checkPrime(num):
 
 Max = int(input("Type a number for search primes:"))
 for i in range(1,Max+1):
-    print(f"Number {i}, IsPrime:{checkPrime(i)}")
+    print(f"Number {i},IsPrime:{checkPrime(i)}")
