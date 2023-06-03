@@ -1,4 +1,3 @@
-#globalNumber = 0
 def checkPrime(num): 
     if (num == 1): return False
     isPrime = True
